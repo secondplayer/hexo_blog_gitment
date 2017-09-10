@@ -1,2 +1,2 @@
-# hexo_blog_gitment
+# hexo blog gitment
 This repo is to store blog comments
